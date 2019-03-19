@@ -1,0 +1,82 @@
+﻿C# is Simple, Modern,  general purpose object oriented programming language developed by Microsoft
+C# devlopled by anders hejlsberg during development of .net framework
+C# is based on C,C++, Java , Visual basic, if you know this languages then it will be easy for you learn C#
+C# Approved by ECMA( European computer manufactures associates) & ISO (International standard organization)
+C# Desgined for CLI (common language infrastrucutre ( which is consist of executable code+ runtime environment)
+that allows to use of various high level language on different computer platform and architectures.
+
+	C#
+	1.it is modern & general purpose programming language.
+	2. it is object oriented
+	3. it is component oriented
+	4. it is easy to learn.
+	5. it is structed language.
+	6. it produces efficient programs.
+	7. it can compiled on variety computer platform ( linux ,ios, windows, solaris)
+	8. it is part of .net framework
+
+
+	 important features of C# −
+
+			Boolean Conditions
+			Automatic Garbage Collection
+			Standard Library
+			Assembly Versioning
+			Properties and Events
+			Delegates and Events Management
+			Easy-to-use Generics
+			Indexers
+			Conditional Compilation
+			Simple Multithreading
+			LINQ and Lambda Expressions
+			Integration with Windows
+
+
+	.Net framework:-
+	 .net framework allow you write following application.
+	  ==> window application
+	  ==> web application
+	  ==> web services.
+
+	  .net frame work application are multi platform application
+	  
+       The .Net framework applications are multi-platform applications. 
+	   The framework has been designed in such a way that it can be used from any of the following languages:
+	   C#, C++, Visual Basic, Jscript, COBOL, etc.
+	   All these languages can access the framework as well as communicate with each other.
+
+	   Following are some of the components of the .Net framework −
+
+			Common Language Runtime (CLR)
+			The .Net Framework Class Library
+			Common Language Specification
+			Common Type System
+			Metadata and Assemblies
+			Windows Forms
+			ASP.Net and ASP.Net AJAX
+			ADO.Net
+			Windows Workflow Foundation (WF)
+			Windows Presentation Foundation
+			Windows Communication Foundation (WCF)
+			LINQ
+
+
+
+	 Integrated Development Environment (IDE) for C#
+     Microsoft provides the following development tools for C# programming −
+
+		Visual Studio 2010 (VS)
+		Visual C# 2010 Express (VCE)
+		Visual Web Developer
+
+
+	 Writing C# Programs on Linux or Mac OS
+	 Although the.NET Framework runs on the Windows operating system, there are some alternative versions 
+	 that work on other operating systems.
+	 Mono is an open-source version of the .NET Framework which includes a C# compiler 
+	 and runs on several operating systems, including various flavors of Linux and Mac OS. Kindly check Go Mono.
+
+	 The stated purpose of Mono is not only to be able to run Microsoft .NET applications cross-platform,
+	 but also to bring better development tools for Linux developers.
+	 Mono can be run on many operating systems including Android, BSD, iOS, Linux, OS X, Windows, Solaris, and UNIX
+

@@ -1,0 +1,7 @@
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\02_DataType\bin\Debug\02_DataType.exe.config
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\02_DataType\bin\Debug\02_DataType.exe
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\02_DataType\bin\Debug\02_DataType.pdb
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\02_DataType\obj\Debug\02_DataType.csprojAssemblyReference.cache
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\02_DataType\obj\Debug\02_DataType.csproj.CoreCompileInputs.cache
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\02_DataType\obj\Debug\02_DataType.exe
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\02_DataType\obj\Debug\02_DataType.pdb

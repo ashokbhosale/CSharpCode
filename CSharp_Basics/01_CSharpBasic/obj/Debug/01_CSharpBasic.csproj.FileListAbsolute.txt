@@ -1,0 +1,7 @@
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\01_CSharpBasic\bin\Debug\01_CSharpBasic.exe.config
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\01_CSharpBasic\bin\Debug\01_CSharpBasic.exe
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\01_CSharpBasic\bin\Debug\01_CSharpBasic.pdb
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\01_CSharpBasic\obj\Debug\01_CSharpBasic.csprojAssemblyReference.cache
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\01_CSharpBasic\obj\Debug\01_CSharpBasic.csproj.CoreCompileInputs.cache
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\01_CSharpBasic\obj\Debug\01_CSharpBasic.exe
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\01_CSharpBasic\obj\Debug\01_CSharpBasic.pdb

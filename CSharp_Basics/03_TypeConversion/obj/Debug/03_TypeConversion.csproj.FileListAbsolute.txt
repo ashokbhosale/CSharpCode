@@ -1,0 +1,7 @@
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\03_TypeConversion\bin\Debug\03_TypeConversion.exe.config
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\03_TypeConversion\bin\Debug\03_TypeConversion.exe
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\03_TypeConversion\bin\Debug\03_TypeConversion.pdb
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\03_TypeConversion\obj\Debug\03_TypeConversion.csprojAssemblyReference.cache
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\03_TypeConversion\obj\Debug\03_TypeConversion.csproj.CoreCompileInputs.cache
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\03_TypeConversion\obj\Debug\03_TypeConversion.exe
+C:\ashok b\MyWork\C# Basics\CSharp_Basics\03_TypeConversion\obj\Debug\03_TypeConversion.pdb
