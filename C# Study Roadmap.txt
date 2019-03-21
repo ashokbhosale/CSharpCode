@@ -4,3 +4,6 @@ C# Basic
 C# Advanced
 pluralsight
 70-483 certification
+
+some helpful book
+http://ebook-dl.com/book/60539
