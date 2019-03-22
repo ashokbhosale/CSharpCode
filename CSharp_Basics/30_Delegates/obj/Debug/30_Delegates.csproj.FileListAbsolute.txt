@@ -1,0 +1,6 @@
+C:\ashok b\MyWork\C# Basics\CSharpCode\CSharp_Basics\30_Delegates\bin\Debug\30_Delegates.exe.config
+C:\ashok b\MyWork\C# Basics\CSharpCode\CSharp_Basics\30_Delegates\bin\Debug\30_Delegates.exe
+C:\ashok b\MyWork\C# Basics\CSharpCode\CSharp_Basics\30_Delegates\bin\Debug\30_Delegates.pdb
+C:\ashok b\MyWork\C# Basics\CSharpCode\CSharp_Basics\30_Delegates\obj\Debug\30_Delegates.csproj.CoreCompileInputs.cache
+C:\ashok b\MyWork\C# Basics\CSharpCode\CSharp_Basics\30_Delegates\obj\Debug\30_Delegates.exe
+C:\ashok b\MyWork\C# Basics\CSharpCode\CSharp_Basics\30_Delegates\obj\Debug\30_Delegates.pdb
